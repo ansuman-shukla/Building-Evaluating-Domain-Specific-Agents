@@ -1,0 +1,50 @@
+[    {
+        "id": "query_001",
+        "domain": "edtech_math_tutor",
+        "task_type": "problem_solving",
+        "grade_level": "6",
+        "topic": "fractions",
+        "input": "I need to add 3/4 + 2/5. Can you help me solve this step by step?",
+        "expected_output": "1.15 or 23/20",
+        "difficulty": "easy"
+    },
+             {
+        "id": "query_002",
+        "domain": "edtech_math_tutor",
+        "task_type": "concept_explanation",
+        "grade_level": "7",
+        "topic": "algebra",
+        "input": "Let a pair of dice be thrown and the random variable X be the sum of the numbers that appear on the two dice. Find the mean or expectation of X.",
+        "expected_output": "E[X]= 7",
+        "difficulty": "medium"
+    },    {
+        "id": "query_003",
+        "domain": "edtech_math_tutor",
+        "task_type": "word_problem",
+        "grade_level": "8",
+        "topic": "geometry",
+        "input": "In triangle ABC, the measure of ∠B is 90°, BC=16, and AC=20. Triangle DEF is similar to triangle ABC, where vertices D, E, and F correspond to vertices A, B, and C, respectively, and each side of triangle DEF is 1/3 the length of the corresponding side of triangle ABC. What is the value of sinF?",
+        "expected_output": "0.6",
+        "difficulty": "medium"
+    },    {
+        "id": "query_004",
+        "domain": "edtech_math_tutor",
+        "task_type": "problem_solving",
+        "grade_level": "9",
+        "topic": "quadratic_equations",
+"input": "A dietician has to develop a special diet using two foods P and Q. Each packet (containing 30g) of food P contains 12 units of calcium, 4 units of iron, 6 units of cholesterol and 6 units of vitamin A. Each packet of the same quantity of food Q contains 3 units of calcium, 20 units of iron, 4 units of cholesterol, and 3 units of vitamin A. The diet requires atleast 240 units of calcium, atleast 460 units of iron and atmost 300 units of cholesterol. How many packets of each food should be used to minimize the amount of vitamin A in the diet? What is the minimum amount of vitamin A?",
+        "expected_output": "Use 15 packets of P and 20 packets of Q, which provides the required calcium, iron, and stays under the cholesterol limit, while minimizing vitamin A to 150 units.",
+        "difficulty": "hard"
+    },    {
+        "id": "query_005",
+        "domain": "edtech_math_tutor",
+        "task_type": "concept_clarification",
+        "grade_level": "6",
+        "topic": "decimals",
+        "input": "which is bigger 9.9 and 9.11?",
+        "expected_output": "9.9",
+        "difficulty": "easy"
+    }
+]
+
+ 
